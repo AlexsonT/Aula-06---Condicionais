@@ -26,15 +26,15 @@ if (imc <18.5){
   classificacao = "Magreza"
   grau = 0
 }
-else if (imc<24.99){
+else if (imc<25){
   classificacao = "Normal"
    grau = 0
 }
-else if (imc <29.99){
+else if (imc <30){
   classificacao = "Sobrepeso"
   grau = 1
 }
-else if (imc <39.99){
+else if (imc <40){
   classificacao = "Obesidade"
   grau = 2
 }
